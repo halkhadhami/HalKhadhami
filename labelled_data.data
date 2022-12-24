@@ -1,0 +1,5 @@
+classes = 3
+train = /input/bosch-5000/train.txt
+valid = /input/bosch-5000/test.txt
+names = /input/bosch-5000/classes.names
+backup = backup
